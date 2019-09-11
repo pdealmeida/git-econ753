@@ -1,3 +1,5 @@
+## Pedro de Almeida.  
+## September 11, 2019
 ## Load the needed libraries
 ## Do these need (one-time) installation?
 library(tidyverse) ## Includes advanced data management and graphics
